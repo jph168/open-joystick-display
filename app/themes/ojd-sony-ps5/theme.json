@@ -1,0 +1,11 @@
+{
+	"id":"ojd-sony-ps5",
+	"name":"Sony Playstation 5",
+	"author":"John (ATFx)",
+	"version":"1.0",
+	"website":"https://ojdproject.com",
+	"styles":[
+		{"id":"white", "name":"White"},
+ 		{"id":"black", "name":"Black"}
+	]
+}
