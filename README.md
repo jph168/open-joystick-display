@@ -4,9 +4,9 @@
 # Open Joystick Display
 **A powerful and easy to use streamer-ready overlay for your joystick or gamepad. Completely free and open source.**
 
-### Project Discontinued
-
-This project has been discontinued. I no longer have time or money to support this product due to recent events in my life. Links below to the archived source and last compiled binaries. You can find archived documentation listed below as well. This project was open source, so if someone wants to fork and make a new version by all means do so. As of writing the application works just fine from my testing except for one documented bug regarding the N64 RetroSpy configuration.
+### Project Upgrade
+Project Set on Continuing and Enhancing Open Joy Stick Display.
+As of writing the application works just fine from my testing except for one documented bug regarding the N64 RetroSpy configuration.
 
 ## Project Archive (Documentation, Binary Downloads, Screenshots, etc.)
 http://kernelzechs.com/open-joystick-display/
