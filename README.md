@@ -6,7 +6,7 @@
 
 ### Project Upgrade
 Project Set on Continuing and Enhancing Open Joy Stick Display.
-As of writing the application works just fine from my testing except for one documented bug regarding the N64 RetroSpy configuration.
+As of writing the application works just fine except for one documented bug regarding the N64 RetroSpy configuration.
 
 ## Project Archive (Documentation, Binary Downloads, Screenshots, etc.)
 http://kernelzechs.com/open-joystick-display/
