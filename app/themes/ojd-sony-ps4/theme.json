@@ -8,7 +8,6 @@
                 {"id":"black", "name":"Black"},
                 {"id":"white", "name":"White"},
                 {"id":"blue", "name":"Blue"},
-                {"id":"green", "name":"Green"},
                  {"id":"snowcamo", "name":"SnowCamo"}
 	]
 }
