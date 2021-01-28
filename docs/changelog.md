@@ -1,10 +1,16 @@
 # Changelog
 
-## Version 2.8.0
+## Version 2.8 
+* Support for Ps5 Controllers
+* Enhanced Button Mapping Support for Ps4 & Ps5
+* Latest V2.8.0 Fixes
+
+## Version 2.8.0 Original
 * SCUF Playstation 4 Themes
 * Invert Axis Support for Directionals
 * Mode Button for 6-Button Genesis/Mega Drive Controller
 * Installer Support for Linux and Windows
+
 
 ## Version 2.7.1
 * Hitbox and Smashbox Support Developed by Luberry
