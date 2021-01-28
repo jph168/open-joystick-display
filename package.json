@@ -20,17 +20,27 @@
     "linux": {
       "icon": "./app/icons/icon.png",
       "target": [
-          {"target":"tar.gz"},
-          {"target":"deb"},
-          {"target":"AppImage"}
+        {
+          "target": "tar.gz"
+        },
+        {
+          "target": "deb"
+        },
+        {
+          "target": "AppImage"
+        }
       ],
       "category": "Multimedia"
     },
     "win": {
       "icon": "./app/icons/icon.ico",
       "target": [
-        {"target":"zip"},
-        {"target":"nsis"}
+        {
+          "target": "zip"
+        },
+        {
+          "target": "nsis"
+        }
       ]
     },
     "mac": {
